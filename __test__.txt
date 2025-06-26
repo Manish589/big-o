@@ -1,0 +1,10 @@
+Cloning into 'big-o'...
+Switched to a new branch 'feature-branch-2'
+/tmp/619231031/main.sh: line 12: syntax error near unexpected token `('
+/tmp/619231031/main.sh: line 12: `def calculate_total():'
+
+[feature-branch-2 08dd90e] Add __test__.txt with test content
+ 1 file changed, 1 insertion(+)
+ create mode 100644 __test__.txt
+On branch feature-branch-2
+nothing to commit, working tree clean
